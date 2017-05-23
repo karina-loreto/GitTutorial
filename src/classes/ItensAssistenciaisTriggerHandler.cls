@@ -8,7 +8,7 @@ public class gitTriggerHandller {
 		//diff 2
 		System.debug("test");
        
-		System.debug("testdia2");
+		System.debug("testdia2 4");
 		//testessss
     }
  
